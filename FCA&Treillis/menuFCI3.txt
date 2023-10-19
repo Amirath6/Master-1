@@ -1,0 +1,28 @@
+# Database file name:              /home/22012235/Documents/Master1/IntroSD/coron-0.8/../menu.rcf
+# Database file size:              4,780 bytes
+# Number of lines:                 31
+# Total number of attributes:      55
+# Number of non empty attributes:  55
+# Number of attributes in average: 4,39
+# Density:                         7,98 %
+# min_supp:                        3, i.e. 9,68 %
+# Chosen algorithm:                Charm (v4) [triangular matrix; hash for FCIs]
+
+{Mozzarella, courgettes, poivrons} (3) +
+{roquette, Mozzarella, jambon de Parme} (3) +
+{Mozzarella, copeaux de parmesan} (3) +
+{Mozzarella, champignons frais} (3) +
+{Mozzarella, artichauts} (3) +
+{Mozzarella, olives} (4) +
+{Mozzarella, aubergines} (4) +
+{Mozzarella, crème fraîche} (5) +
+{Mozzarella, poivrons} (5) +
+{roquette, Mozzarella} (5) +
+{roquette} (6) +
+{Mozzarella, oignons} (6) +
+{Mozzarella, jambon, oeufs} (4) +
+{Mozzarella, jambon} (6) +
+{Mozzarella, oeufs} (6) +
+{Mozzarella} (28) +
+
+# FCIs: 16

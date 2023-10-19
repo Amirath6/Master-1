@@ -1,0 +1,70 @@
+# Database file name:              /home/22012235/Documents/Master1/IntroSD/coron-0.8/../menu.rcf
+# Database file size:              4,780 bytes
+# Number of lines:                 31
+# Total number of attributes:      55
+# Number of non empty attributes:  55
+# Number of attributes in average: 4,39
+# Density:                         7,98 %
+# min_supp:                        1, i.e. 3,23 %
+# Chosen algorithm:                Charm (v4) [triangular matrix; hash for FCIs]
+
+{Mozzarella di Bufala, tomates grappes, basilic frais} (1) +
+{Pesto basilic, mozzarella Burrata} (1) +
+{Coeur de mozzarella burrata, saumon frais, roquette, aneth} (1) +
+{Mozzarella, lardons, pommes de terre, reblochon, oignons, crème fraîche} (1) +
+{Mozzarella, ananas frais, poulet} (1) +
+{Mozzarella, poulet, courgettes, poivrons, crème au curry} (1) +
+{Mozzarella, oignons, crème fraîche, andouille de Vire, Pont L'Evéque} (1) +
+{roquette, Mozzarella, légumes, jambon de Parme, copeaux de parmesan} (1) +
+{roquette, Mozzarella, jambon de Parme, olives, parmesan} (1) +
+{Mozzarella, crème fraîche, saumon fumé, Saint-Jacques fraîches, poireaux} (1) +
+{Mozzarella, Saint-Jacques fraîches, champignons frais, ail} (1) +
+{Mozzarella, moules, crevettes, calamars, Saint Jacques fraîches} (1) +
+{Mozzarella, crème fraîche, saumon fumé, crevettes fraîches, tomates cerises} (1) +
+{Mozzarella, jambon, oeufs, salade verte} (1) +
+{Mozzarella, jambon, oeufs, aubergines, une Salade verte} (1) +
+{Mozzarella, olives, anchois, câpres} (1) +
+{roquette, Mozzarella, lardons, oignons, chèvre, miel} (1) +
+{Mozzarella, poivrons, copeaux de parmesan, salamI} (1) +
+{Mozzarella, oeufs, merguez (boucherie Marcel), chorizo} (1) +
+{Mozzarella, jambon, oeufs, aubergine} (1) +
+{Mozzarella, oignons, aubergines, mortadelle} (1) +
+{Mozzarella, lardons, oignons} (2) +
+{Mozzarella, reblochon, gorgonzola, chèvre} (1) +
+{Mozzarella, reblochon} (2) +
+{Mozzarella, poulet} (2) +
+{roquette, Mozzarella, crème fraîche, jambon de Parme, gorgonzola} (1) +
+{Mozzarella, gorgonzola} (2) +
+{Mozzarella, crème fraîche, saumon fumé} (2) +
+{Mozzarella, Saint-Jacques fraîches} (2) +
+{Mozzarella, olives, champignons frais, jambon, artichauts, anchois} (1) +
+{Mozzarella, olives, anchois} (2) +
+{Mozzarella, chèvre} (2) +
+{Mozzarella, oignons, poivrons, chorizo, bœuf haché frais} (1) +
+{Mozzarella, chorizo} (2) +
+{Mozzarella, oignons, oeufs, bœuf haché frais} (1) +
+{Mozzarella, oignons, bœuf haché frais} (2) +
+{roquette, Mozzarella, courgettes, poivrons, copeaux de parmesan, aubergines, artichauts} (1) +
+{Mozzarella, courgettes, poivrons, aubergines, artichauts} (2) +
+{Mozzarella, courgettes, poivrons} (3) +
+{roquette, Mozzarella, jambon de Parme} (3) +
+{Mozzarella, poivrons, copeaux de parmesan} (2) +
+{roquette, Mozzarella, copeaux de parmesan} (2) +
+{Mozzarella, copeaux de parmesan} (3) +
+{Mozzarella, champignons frais, jambon} (2) +
+{Mozzarella, champignons frais} (3) +
+{Mozzarella, artichauts} (3) +
+{Mozzarella, olives} (4) +
+{Mozzarella, aubergines} (4) +
+{Mozzarella, oignons, crème fraîche} (2) +
+{Mozzarella, crème fraîche} (5) +
+{Mozzarella, poivrons} (5) +
+{roquette, Mozzarella} (5) +
+{roquette} (6) +
+{Mozzarella, oignons} (6) +
+{Mozzarella, jambon, oeufs} (4) +
+{Mozzarella, jambon} (6) +
+{Mozzarella, oeufs} (6) +
+{Mozzarella} (28) +
+
+# FCIs: 58

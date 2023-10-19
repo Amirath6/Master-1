@@ -1,0 +1,43 @@
+# Database file name:              /home/22012235/Documents/Master1/IntroSD/coron-0.8/../menu.rcf
+# Database file size:              4,780 bytes
+# Number of lines:                 31
+# Total number of attributes:      55
+# Number of non empty attributes:  55
+# Number of attributes in average: 4,39
+# Density:                         7,98 %
+# min_supp:                        2, i.e. 6,45 %
+# Chosen algorithm:                Charm (v4) [triangular matrix; hash for FCIs]
+
+{Mozzarella, lardons, oignons} (2) +
+{Mozzarella, reblochon} (2) +
+{Mozzarella, poulet} (2) +
+{Mozzarella, gorgonzola} (2) +
+{Mozzarella, crème fraîche, saumon fumé} (2) +
+{Mozzarella, Saint-Jacques fraîches} (2) +
+{Mozzarella, olives, anchois} (2) +
+{Mozzarella, chèvre} (2) +
+{Mozzarella, chorizo} (2) +
+{Mozzarella, oignons, bœuf haché frais} (2) +
+{Mozzarella, courgettes, poivrons, aubergines, artichauts} (2) +
+{Mozzarella, courgettes, poivrons} (3) +
+{roquette, Mozzarella, jambon de Parme} (3) +
+{Mozzarella, poivrons, copeaux de parmesan} (2) +
+{roquette, Mozzarella, copeaux de parmesan} (2) +
+{Mozzarella, copeaux de parmesan} (3) +
+{Mozzarella, champignons frais, jambon} (2) +
+{Mozzarella, champignons frais} (3) +
+{Mozzarella, artichauts} (3) +
+{Mozzarella, olives} (4) +
+{Mozzarella, aubergines} (4) +
+{Mozzarella, oignons, crème fraîche} (2) +
+{Mozzarella, crème fraîche} (5) +
+{Mozzarella, poivrons} (5) +
+{roquette, Mozzarella} (5) +
+{roquette} (6) +
+{Mozzarella, oignons} (6) +
+{Mozzarella, jambon, oeufs} (4) +
+{Mozzarella, jambon} (6) +
+{Mozzarella, oeufs} (6) +
+{Mozzarella} (28) +
+
+# FCIs: 31

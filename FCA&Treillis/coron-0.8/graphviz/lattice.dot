@@ -1,0 +1,36 @@
+digraph lattice
+{
+   // top to bottom
+   rankdir=TB;
+   concentrate=true;
+   edge [dir=back, arrowsize=0.75, color=black];
+
+   // top and bottom concepts
+   node [shape=box, peripheries=2, style=filled];
+   7 8
+
+   // inner concepts
+   node [shape=box, peripheries=1, color=black, style=solid];
+
+   // all concepts
+   7 [label="[Calzone (pizza soufflée), Calzone di Pizzaiolo, Ouverte, Quattro Stagioni, Régina, Chef]\nx\n{Mozzarella, jambon}  (6)\n|\n{}"]; // top concept
+   5 [label="[Quattro Stagioni, Régina]\nx\n{Mozzarella, champignons frais, jambon}  (2)\n|\n{champignons frais}"];
+   6 [label="[Calzone (pizza soufflée), Calzone di Pizzaiolo, Ouverte, Chef]\nx\n{Mozzarella, jambon, oeufs}  (4)\n|\n{oeufs}"];
+   1 [label="[Calzone (pizza soufflée)]\nx\n{Mozzarella, jambon, oeufs, salade verte}  (1)\n|\n{salade verte}"];
+   4 [label="[Chef]\nx\n{Mozzarella, jambon, oeufs, aubergine}  (1)\n|\n{aubergine}"];
+   2 [label="[Calzone di Pizzaiolo]\nx\n{Mozzarella, jambon, oeufs, aubergines, une Salade verte}  (1)\n|\n{aubergines}  #  {une Salade verte}"];
+   3 [label="[Quattro Stagioni]\nx\n{Mozzarella, olives, champignons frais, jambon, artichauts, anchois}  (1)\n|\n{olives}  #  {artichauts}  #  {anchois}"];
+   8 [label="[]\nx\n{Mozzarella, olives, champignons frais, jambon, oeufs, salade verte, aubergines, une Salade verte, artichauts, anchois, aubergine}  (0)"]; // bottom concept
+
+   // links between the concepts
+   7 -> 5;
+   7 -> 6;
+   5 -> 3;
+   6 -> 1;
+   6 -> 2;
+   6 -> 4;
+   1 -> 8;
+   4 -> 8;
+   2 -> 8;
+   3 -> 8;
+}

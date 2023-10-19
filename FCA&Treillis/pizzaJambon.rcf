@@ -1,0 +1,15 @@
+# keep lines that have attributes {40}
+
+[Relational Context]
+Default Name
+[Binary Relation]
+Name_of_dataset
+Calzone (pizza soufflée) | Calzone di Pizzaiolo | Ouverte | Quattro Stagioni | Régina | Chef
+Mozzarella di Bufala | tomates grappes | basilic frais | Pesto basilic | mozzarella Burrata | Coeur de mozzarella burrata | saumon frais | roquette | aneth | Mozzarella | lardons | pommes de terre | reblochon | oignons | crème fraîche | ananas frais | poulet | courgettes | poivrons | crème au curry | andouille de Vire | Pont L'Evéque | légumes | jambon de Parme | copeaux de parmesan | gorgonzola | olives | parmesan | saumon fumé | Saint-Jacques fraîches | poireaux | champignons frais | ail | moules | crevettes | calamars | Saint Jacques fraîches | crevettes fraîches | tomates cerises | jambon | oeufs | salade verte | aubergines | une Salade verte | artichauts | anchois | câpres | chèvre | miel | salamI | merguez (boucherie Marcel) | chorizo | bœuf haché frais | aubergine | mortadelle
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+[END Relational Context]

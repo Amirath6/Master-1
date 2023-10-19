@@ -1,0 +1,26 @@
+# Database file name:              /home/22012235/Documents/Master1/IntroSD/coron-0.8/../menu.rcf
+# Database file size:              4,780 bytes
+# Number of lines:                 31
+# Total number of attributes:      55
+# Number of non empty attributes:  55
+# Number of attributes in average: 4,39
+# Density:                         7,98 %
+# min_supp:                        5, i.e. 16,13 %
+# min_conf:                        70 %
+# Chosen algorithm:                Charm (v4) [triangular matrix; hash for FCIs]
+# Rules to extract:                closed association rules
+
+{crème fraîche} => {Mozzarella} (supp=5 [16.13%]; conf=1.000 [100.00%]; suppL=5 [16.13%]; suppR=28 [90.32%]; class=FF) +
+
+{roquette} => {Mozzarella} (supp=5 [16.13%]; conf=0.833 [83.33%]; suppL=6 [19.35%]; suppR=28 [90.32%]; class=FF) +
+
+{poivrons} => {Mozzarella} (supp=5 [16.13%]; conf=1.000 [100.00%]; suppL=5 [16.13%]; suppR=28 [90.32%]; class=FF) +
+
+{oignons} => {Mozzarella} (supp=6 [19.35%]; conf=1.000 [100.00%]; suppL=6 [19.35%]; suppR=28 [90.32%]; class=FF) +
+
+{jambon} => {Mozzarella} (supp=6 [19.35%]; conf=1.000 [100.00%]; suppL=6 [19.35%]; suppR=28 [90.32%]; class=FF) +
+
+{oeufs} => {Mozzarella} (supp=6 [19.35%]; conf=1.000 [100.00%]; suppL=6 [19.35%]; suppR=28 [90.32%]; class=FF) +
+
+# Number of found rules: 6
+# Number of FF rules: 6

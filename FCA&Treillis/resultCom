@@ -1,0 +1,62 @@
+# Database file name:              /home/22012235/Documents/Master1/IntroSD/coron-0.8/../pizzaJambon.rcf
+# Database file size:              1,702 bytes
+# Number of lines:                 6
+# Total number of attributes:      54
+# Number of non empty attributes:  11
+# Number of attributes in average: 4,17
+# Density:                         7,72 %
+# min_supp:                        1, i.e. 16,67 %
+# Chosen algorithm:                dTouch [dCharm + dTalky-G + association]
+
+# Method for finding order:        Snow
+Top:
+[Calzone (pizza soufflée), Calzone di Pizzaiolo, Ouverte, Quattro Stagioni, Régina, Chef] x {Mozzarella, jambon} (6) [id=7, type=top, level=0]
+   parents:    []
+   children:   [{Mozzarella, champignons frais, jambon}, {Mozzarella, jambon, oeufs}]
+   generators: [{}]
+
+[Quattro Stagioni, Régina] x {Mozzarella, champignons frais, jambon} (2) [id=5, type=inner, level=1]
+   parents:    [{Mozzarella, jambon}]
+   children:   [{Mozzarella, olives, champignons frais, jambon, artichauts, anchois}]
+   generators: [{champignons frais}]
+
+[Calzone (pizza soufflée), Calzone di Pizzaiolo, Ouverte, Chef] x {Mozzarella, jambon, oeufs} (4) [id=6, type=inner, level=1]
+   parents:    [{Mozzarella, jambon}]
+   children:   [{Mozzarella, jambon, oeufs, salade verte}, {Mozzarella, jambon, oeufs, aubergines, une Salade verte}, {Mozzarella, jambon, oeufs, aubergine}]
+   generators: [{oeufs}]
+
+[Calzone (pizza soufflée)] x {Mozzarella, jambon, oeufs, salade verte} (1) [id=1, type=inner, level=2]
+   parents:    [{Mozzarella, jambon, oeufs}]
+   children:   [{Mozzarella, olives, champignons frais, jambon, oeufs, salade verte, aubergines, une Salade verte, artichauts, anchois, aubergine}]
+   generators: [{salade verte}]
+
+[Chef] x {Mozzarella, jambon, oeufs, aubergine} (1) [id=4, type=inner, level=2]
+   parents:    [{Mozzarella, jambon, oeufs}]
+   children:   [{Mozzarella, olives, champignons frais, jambon, oeufs, salade verte, aubergines, une Salade verte, artichauts, anchois, aubergine}]
+   generators: [{aubergine}]
+
+[Calzone di Pizzaiolo] x {Mozzarella, jambon, oeufs, aubergines, une Salade verte} (1) [id=2, type=inner, level=2]
+   parents:    [{Mozzarella, jambon, oeufs}]
+   children:   [{Mozzarella, olives, champignons frais, jambon, oeufs, salade verte, aubergines, une Salade verte, artichauts, anchois, aubergine}]
+   generators: [{aubergines}, {une Salade verte}]
+
+[Quattro Stagioni] x {Mozzarella, olives, champignons frais, jambon, artichauts, anchois} (1) [id=3, type=inner, level=2]
+   parents:    [{Mozzarella, champignons frais, jambon}]
+   children:   [{Mozzarella, olives, champignons frais, jambon, oeufs, salade verte, aubergines, une Salade verte, artichauts, anchois, aubergine}]
+   generators: [{olives}, {artichauts}, {anchois}]
+
+Bottom (empty):
+[] x {Mozzarella, olives, champignons frais, jambon, oeufs, salade verte, aubergines, une Salade verte, artichauts, anchois, aubergine} (0) [id=8, type=bottom, level=3]
+   parents:    [{Mozzarella, jambon, oeufs, salade verte}, {Mozzarella, jambon, oeufs, aubergines, une Salade verte}, {Mozzarella, jambon, oeufs, aubergine}, {Mozzarella, olives, champignons frais, jambon, artichauts, anchois}]
+   children:   []
+
+# Number of concepts in the lattice: 6 + 2 (inner nodes + Top (non-empty) and Bottom (empty)).
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+# Getting itemsets from Coron:  0.014 sec.
+# Finding extensions:           0.002 sec.
+# Finding order:                0.001 sec.
+# Calculating level values:     0.000 sec.
+# Writing dot output:           0.007 sec.
+# ======================================== 
+# Summary:                      0.024 sec.
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<

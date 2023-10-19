@@ -1,0 +1,68 @@
+# Database file name:              /home/22012235/Documents/Master1/IntroSD/coron-0.8/../menu.rcf
+# Database file size:              4,780 bytes
+# Number of lines:                 31
+# Total number of attributes:      55
+# Number of non empty attributes:  55
+# Number of attributes in average: 4,39
+# Density:                         7,98 %
+# min_supp:                        2, i.e. 6,45 %
+# Chosen algorithm:                Apriori-Inverse [perfectly RIs]
+
+{Mozzarella di Bufala} (1)
+{tomates grappes} (1)
+{basilic frais} (1)
+{Pesto basilic} (1)
+{mozzarella Burrata} (1)
+{Coeur de mozzarella burrata} (1)
+{saumon frais} (1)
+{aneth} (1)
+{pommes de terre} (1)
+{ananas frais} (1)
+{crème au curry} (1)
+{andouille de Vire} (1)
+{Pont L'Evéque} (1)
+{légumes} (1)
+{parmesan} (1)
+{poireaux} (1)
+{ail} (1)
+{moules} (1)
+{crevettes} (1)
+{calamars} (1)
+{Saint Jacques fraîches} (1)
+{crevettes fraîches} (1)
+{tomates cerises} (1)
+{salade verte} (1)
+{une Salade verte} (1)
+{câpres} (1)
+{miel} (1)
+{salamI} (1)
+{merguez (boucherie Marcel)} (1)
+{aubergine} (1)
+{mortadelle} (1)
+
+{Mozzarella di Bufala, tomates grappes} (1)
+{Mozzarella di Bufala, basilic frais} (1)
+{tomates grappes, basilic frais} (1)
+{Pesto basilic, mozzarella Burrata} (1)
+{Coeur de mozzarella burrata, saumon frais} (1)
+{Coeur de mozzarella burrata, aneth} (1)
+{saumon frais, aneth} (1)
+{andouille de Vire, Pont L'Evéque} (1)
+{moules, crevettes} (1)
+{moules, calamars} (1)
+{moules, Saint Jacques fraîches} (1)
+{crevettes, calamars} (1)
+{crevettes, Saint Jacques fraîches} (1)
+{calamars, Saint Jacques fraîches} (1)
+{crevettes fraîches, tomates cerises} (1)
+
+{Mozzarella di Bufala, tomates grappes, basilic frais} (1)
+{Coeur de mozzarella burrata, saumon frais, aneth} (1)
+{moules, crevettes, calamars} (1)
+{moules, crevettes, Saint Jacques fraîches} (1)
+{moules, calamars, Saint Jacques fraîches} (1)
+{crevettes, calamars, Saint Jacques fraîches} (1)
+
+{moules, crevettes, calamars, Saint Jacques fraîches} (1)
+
+# PRIs: 53

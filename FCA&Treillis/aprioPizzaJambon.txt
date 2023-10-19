@@ -1,0 +1,16 @@
+# Database file name:              /home/22012235/Documents/Master1/IntroSD/coron-0.8/../pizzaJambon.rcf
+# Database file size:              1,702 bytes
+# Number of lines:                 6
+# Total number of attributes:      54
+# Number of non empty attributes:  11
+# Number of attributes in average: 4,17
+# Density:                         7,72 %
+# min_supp:                        5, i.e. 83,33 %
+# Chosen algorithm:                Apriori
+
+{Mozzarella} (6)
+{jambon} (6)
+
+{Mozzarella, jambon} (6)
+
+# FIs: 3

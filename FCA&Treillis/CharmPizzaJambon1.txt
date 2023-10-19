@@ -1,0 +1,19 @@
+# Database file name:              /home/22012235/Documents/Master1/IntroSD/coron-0.8/../pizzaJambon.rcf
+# Database file size:              1,702 bytes
+# Number of lines:                 6
+# Total number of attributes:      54
+# Number of non empty attributes:  11
+# Number of attributes in average: 4,17
+# Density:                         7,72 %
+# min_supp:                        1, i.e. 16,67 %
+# Chosen algorithm:                Charm (v4) [triangular matrix; hash for FCIs]
+
+{Mozzarella, olives, champignons frais, jambon, artichauts, anchois} (1) +
+{Mozzarella, jambon, oeufs, salade verte} (1) +
+{Mozzarella, jambon, oeufs, aubergines, une Salade verte} (1) +
+{Mozzarella, jambon, oeufs, aubergine} (1) +
+{Mozzarella, champignons frais, jambon} (2) +
+{Mozzarella, jambon, oeufs} (4) +
+{Mozzarella, jambon} (6) +
+
+# FCIs: 7
